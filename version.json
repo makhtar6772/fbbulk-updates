@@ -1,8 +1,8 @@
 {
-  "version": "1.7.7",
-  "exe_url": "https://github.com/makhtar6772/fbbulk-updates/releases/download/v1.7.7/FBBulkManager.exe",
-  "exe_sha256": "cfef7e14a925f05c1691d1b999f589d94ff711b2d7eeee1a971635e4213b89d0",
-  "selectors_url": "https://github.com/makhtar6772/fbbulk-updates/releases/download/v1.7.7/selectors.json",
-  "selectors_sha256": "8064b84c94208e0bb66e9473b873732c005cc0dadd7b14c4f3e6965b530c6d1e",
-  "sig": "Luo5wBahDY8ttp1TtPW7YCXn+kr29v4XltBI2rN2/ANEe85/czvGdiVjtlFOelllJupxHdu7H9n+YDqFr4elCQ=="
+  "version": "1.7.8",
+  "exe_url": "https://github.com/makhtar6772/fbbulk-updates/releases/download/v1.7.8/FBBulkManager.exe",
+  "exe_sha256": "acc957a68f5b0e831a8772386b3bde136580a85a08290fd11e50f27d19d11278",
+  "selectors_url": "https://github.com/makhtar6772/fbbulk-updates/releases/download/v1.7.8/selectors.json",
+  "selectors_sha256": "2cbd8e98549e70e031bc21777c39646aa2f894297b887b366ac8617bceeb1fda",
+  "sig": "Rssn7WDOSuxQTGsUMuOmqkgHQo23C9jYfn0tmK4PJzZyDg6rQFmORoldW5sdW8I8+GAvSdq4Zg8/U8jPp5GhCA=="
 }
